@@ -39,3 +39,7 @@ In Go, there are six categories of value that are passed by referenc
 [go - Using pointer to channel - Stack Overflow](https://stackoverflow.com/questions/44351159/using-pointer-to-channel/44367183)
 
 六、[python 单元测试](https://docs.python.org/zh-cn/3/library/unittest.html)
+
+七、select of golang 
+- [golang跳出for select 循环_chenchongg的博客-CSDN博客_go 跳出select](https://blog.csdn.net/chenchongg/article/details/85325030)
+- [golang开发:select多路选择 - 飞翔码农 - 博客园](https://www.cnblogs.com/feixiangmanon/p/13733679.html)
